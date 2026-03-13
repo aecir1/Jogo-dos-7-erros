@@ -11,4 +11,9 @@ O resultado esperado após todas as correções deve ser visualmente idêntico e
 4. Utilize a aba *Console* e o depurador para consertar o JavaScript que não está conseguindo impedir o recarregamento da página no clique do botão.
 5. Aplique as correções no arquivo fonte utilizando seu editor de texto.
 
+
+![image alt](https://github.com/aecir1/Jogo-dos-7-erros/blob/main/7-erros/Desafio-2/assets/Piccture.png?raw=true)
+
+
+
 *Consulte o guia passo a passo na raiz do projeto se ficar travado!*
