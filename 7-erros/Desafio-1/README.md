@@ -10,4 +10,6 @@ O resultado esperado após todas as correções deve ser visualmente idêntico a
 3. Utilize as abas *Elements* e *Console* para identificar os problemas de layout e comportamento.
 4. Altere o código fonte utilizando o seu editor de código favorito (ex: VS Code).
 
+![image alt](https://github.com/aecir1/Jogo-dos-7-erros/blob/main/7-erros/Desafio-1/assets/Picture1.png?raw=true)
+
 *Consulte as soluções gerais na raiz do projeto se precisar de ajuda!*
